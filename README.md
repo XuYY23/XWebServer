@@ -1,5 +1,5 @@
 # XWebServer
-一个’个人‘学习道路上的webserver
+’菜鸟‘学习道路上的webserver（copy成分居多0.0）
 
 ## Xwebserver1.0
 1、使用 线程池 + 非阻塞socket + epoll(ET模式) + 事件处理(Reactor) 的并发模型
