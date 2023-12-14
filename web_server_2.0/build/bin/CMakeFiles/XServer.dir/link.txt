@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/XServer.dir/config.cpp.o CMakeFiles/XServer.dir/http.cpp.o CMakeFiles/XServer.dir/log.cpp.o CMakeFiles/XServer.dir/main.cpp.o CMakeFiles/XServer.dir/server.cpp.o CMakeFiles/XServer.dir/sqlconn_pool.cpp.o CMakeFiles/XServer.dir/timer.cpp.o  -o XServer  -lpthread -lmysqlclient 

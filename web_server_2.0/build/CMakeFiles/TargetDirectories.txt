@@ -1,0 +1,5 @@
+/home/king/linux_service_code/web_server_2.0/build/CMakeFiles/rebuild_cache.dir
+/home/king/linux_service_code/web_server_2.0/build/CMakeFiles/edit_cache.dir
+/home/king/linux_service_code/web_server_2.0/build/bin/CMakeFiles/rebuild_cache.dir
+/home/king/linux_service_code/web_server_2.0/build/bin/CMakeFiles/edit_cache.dir
+/home/king/linux_service_code/web_server_2.0/build/bin/CMakeFiles/XServer.dir
